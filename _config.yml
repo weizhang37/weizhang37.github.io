@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Wei Zhang"
   avatar           : "profile.png"
-  bio              : "百尺竿头，更进一步"
-  location         : "Location"
-  employer         :
+  bio              : "做一个高尚的人，一个纯粹的人，一个有道德的人，一个脱离了低级趣味的人，一个有益于人民的人。"
+  location         : #"Location"
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "weizhang37"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
