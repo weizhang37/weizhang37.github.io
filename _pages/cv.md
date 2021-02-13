@@ -9,32 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2018.09-至今 华东理工大学 本科 信息系 总评成绩：81.32/100 总评排名：31/100
 
-Work experience
+科研经历
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019.06-2019.09: 美国佛罗里达大学暑期科研
+  * Realtime Infant 2D Pose Estimation Using Openpose
+  * Excellent Performance Prize（全组仅一人）
   
-Skills
+* 2019.10-2019.12: 基于深度学习的验证码识别（CNN+LSTM+CTC)
+  * 校创新育人计划一等奖（全校仅5人）
+  
+* 2019.09-2020.10: 上海市级大学生创新训练项目“基于深度学习的图像篡改识别”
+  * 项目优秀结题（负责人，全系仅2组）
+
+* 2020.10-至今: 交大医学院科研：基于深度学习注意力机制的胃癌PDL1蛋白Tracer
+  * 网络模型已经构建完成，中期训练结果较为满意，撰写论文中
+  
+奖励情况
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 国家级：2020美国大学生数学建模比赛一等奖，2020年全国高校计算机能力挑战赛——人工智能应用赛三等奖
+* 省级：第六届“互联网+”大学生创新创业大赛铜奖（负责人）、第十二届“挑战杯”大学生创业计划竞赛银奖（负责人）
+* 校级：“谨福”奖学金、张家港创新奖学金、利戴奖学金、校优秀奖学金三等奖
+
+基本技能
+======
+* 英语
+  * 四级623分；六级未出
+  * 托福108分（阅读30，口语26）
 
 Publications
 ======
