@@ -39,6 +39,9 @@ redirect_from:
 * 英语
   * 四级623分
   * 托福108分（阅读30，口语26）
+* 编程
+  * Python
+  * 托福108分（阅读30，口语26）
 
 Publications
 ======
@@ -46,18 +49,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
