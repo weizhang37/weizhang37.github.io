@@ -40,14 +40,8 @@ redirect_from:
   * 四级623分
   * 托福108分（阅读30，口语26）
 * 编程
-  * Python
-  * 托福108分（阅读30，口语26）
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * Python：数据分析及其可视化、机器学习、深度学习（熟练使用Tensorflow框架，正在学习Pytorch框架）、Django后端。
+  * c/c++基本算法、js前端（vue框架)、matlab及r的数据分析及其可视化。
   
 
   
