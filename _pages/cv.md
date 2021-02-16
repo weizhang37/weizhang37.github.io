@@ -19,13 +19,13 @@ redirect_from:
   * Realtime Infant 2D Pose Estimation Using Openpose
   * Excellent Performance Prize（全组仅一人）
   
-* 2019.10-2019.12: 基于深度学习的验证码识别（CNN+LSTM+CTC)
+* 2019.10-2019.12: 基于深度学习的端到端文本类验证码识别（CNN+LSTM+CTC)
   * 校创新育人计划一等奖（全校仅5人）
   
 * 2019.09-2020.10: 上海市级大学生创新训练项目“基于深度学习的图像篡改识别”
   * 项目优秀结题（负责人，全系仅2组）
 
-* 2020.10-至今: 交大医学院科研：基于深度学习注意力机制的胃癌PDL1蛋白Tracer
+* 2020.10-至今: 交大医学院科研：基于EfficientNet的胃癌PDL1蛋白Tracer
   * 网络模型已经构建完成，中期训练结果较为满意，撰写论文中
   
 奖励情况
